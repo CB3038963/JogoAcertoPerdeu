@@ -1,0 +1,7 @@
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\bin\Debug\JogoAP2.0.exe.config
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\bin\Debug\JogoAP2.0.exe
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\bin\Debug\JogoAP2.0.pdb
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\obj\Debug\JogoAP2.0.csproj.AssemblyReference.cache
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\obj\Debug\JogoAP2.0.csproj.CoreCompileInputs.cache
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\obj\Debug\JogoAP2.0.exe
+C:\Users\Juca\source\repos\JogoAP2.0\JogoAP2.0\obj\Debug\JogoAP2.0.pdb
