@@ -1,0 +1,8 @@
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\bin\Debug\Jogo4.0.exe.config
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\bin\Debug\Jogo4.0.exe
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\bin\Debug\Jogo4.0.pdb
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\obj\Debug\Jogo4.0.csproj.AssemblyReference.cache
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\obj\Debug\Jogo4.0.csproj.CoreCompileInputs.cache
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\obj\Debug\Jogo4.0.exe
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\obj\Debug\Jogo4.0.pdb
+C:\Users\Juca\source\repos\Jogo4.0\Jogo4.0\obj\Debug\Jogo4.0.exe.config
